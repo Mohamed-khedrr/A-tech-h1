@@ -1,0 +1,105 @@
+.new-sans {
+  font-family: "Neo Sans Arabic", sans-serif;
+}
+
+.popins {
+  font-family: Poppins;
+}
+// ========================
+
+.color-orange-1 {
+  color: rgba(255, 111, 111, 1);
+}
+
+.color-gray-1 {
+  color: rgba(97, 103, 118, 1);
+}
+
+.color-dark {
+  color: #1c1c28;
+}
+
+.color-blue-1 {
+  color: rgba(62, 151, 255, 1);
+}
+
+.color-green-2 {
+  color: #48b29a;
+}
+
+// ========================
+
+.main-bg {
+  background-color: rgba(244, 244, 244, 1);
+}
+
+.bg-gray-2 {
+  background-color: #f8f8f8;
+}
+.bg-orange-2 {
+  background-color: #ffac4d;
+}
+.bg-green-1 {
+  background-color: #30cdb5;
+}
+
+.bg-blue-2 {
+  background-color: #40cdf4;
+}
+
+// ========================
+.p-x10 {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.p-10px {
+  padding: 10px;
+}
+
+.p-y6 {
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+// ========================
+.m-y10 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+// ========================
+.w-42px {
+  width: 42px;
+}
+.h-42px {
+  height: 42px;
+}
+// ========================
+.gap-6px {
+  gap: 6px;
+}
+// ========================
+.fs-13px {
+  font-size: 13px;
+}
+// ========================
+.section-border {
+  border: 1px solid #ecf0f5;
+}
+
+// ========================
+.box-shadow-1 {
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
+}
+// ========================
+main {
+  background-color: rgba(248, 248, 248, 1);
+  width: 643px;
+  margin: auto;
+
+  .section-icon {
+    width: 5px;
+    height: 10px;
+    border-radius: 1px;
+  }
+}
