@@ -1,0 +1,6 @@
+@import "../../../utilities/utilities";
+
+.section-icon {
+  @include section-icon;
+  @apply bg-4;
+}
