@@ -1,1 +1,9 @@
 @import "../../../utilities/utilities";
+.footer {
+  border-radius: 0px 0px 8px 8px;
+  border-top: 1px solid #ebebeb;
+
+  .return {
+    border: 1px solid #e2e2e2;
+  }
+}

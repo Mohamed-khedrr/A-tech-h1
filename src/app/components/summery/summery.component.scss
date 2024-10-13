@@ -1,1 +1,13 @@
 @import "../../../utilities/utilities";
+.summery-container {
+  .qr-container {
+    border-radius: 18.7px;
+    width: 152px;
+    height: 124px;
+    overflow: hidden;
+    background-color: #f6f6f6;
+  }
+  .text-xs {
+    line-height: 8px;
+  }
+}

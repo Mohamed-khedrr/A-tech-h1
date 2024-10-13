@@ -21,6 +21,7 @@
     "@fortawesome/fontawesome-free": "^6.6.0",
     "autoprefixer": "^10.4.20",
     "font-awesome": "^4.7.0",
+    "ng-qrcode": "^18.0.0",
     "postcss": "^8.4.47",
     "rxjs": "~7.8.0",
     "tailwindcss": "^3.4.13",
